@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.ExcelToJson{
+  font-family: sans-serif;
+  text-align: center;
+  
+}
+body{
+  text-align:center;
+  
+
+}
+.btn{
+  margin: 20px;
+}
